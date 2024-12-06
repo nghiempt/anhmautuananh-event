@@ -24,7 +24,7 @@ export default function Event({ handleLogout, currentAccount, listNumber }: { ha
         if (num?.MA_KHACH_HANG.toString() === currentAccountExtract?.MA_KHACH_HANG.toString()) {
           style = 'bg-blue-500 text-white';
         } else {
-          style = 'bg-orange-500 text-white';
+          style = 'bg-gray-500 text-gray-300';
         }
       }
     });

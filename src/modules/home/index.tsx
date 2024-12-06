@@ -121,8 +121,9 @@ export default function HomeClient() {
                     />
                   </div>
                   <CardDescription>
-                    <div className="w-full text-center mt-4">
-                      Chương trình xổ số trúng trưởng nhân dịp <strong>TẾT NGUYÊN ĐÁN 2025</strong>
+                    <div className="w-full flex flex-col justify-center items-center text-center mt-4 gap-2">
+                      <span>Chương trình xổ số trúng trưởng nhân dịp <strong>TẾT NGUYÊN ĐÁN 2025</strong></span>
+                      <span>Liên hệ sdt <strong>0941 82 6556</strong> (Mr.Thức) để lấy tài khoản đăng nhập</span>
                     </div>
                   </CardDescription>
                 </CardHeader>
